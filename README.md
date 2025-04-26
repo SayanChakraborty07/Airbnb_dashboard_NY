@@ -3,6 +3,7 @@ DASHBOARD OVERVIEW
 
 
 Introduction:
+
 This dashboard presents a detailed analysis of Airbnb listings across different regions of New York City. It focuses on various parameters like average price trends, regional pricing differences, bed availability, and rating-based top regions.
 
 
