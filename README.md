@@ -1,14 +1,10 @@
-DASHBOARD OVERVIEW
-
-
-
-Introduction:
+INTRODUCTION:
 
 This dashboard presents a detailed analysis of Airbnb listings across different regions of New York City. It focuses on various parameters like average price trends, regional pricing differences, bed availability, and rating-based top regions.
 
 
 
-Project Overview:
+PROJECT OVERVIEW:
 
 This project uses Tableau for data visualization and analysis. The project consists of the following components,
 
@@ -20,7 +16,7 @@ Dashboard Creation: The visualizations are then combined into a dashboard. The d
 
 
 
-Data Sources:
+DATA SOURCES:
 
 The dataset used in this project is obtained from Inside Airbnb. It consists of the following files,
 
@@ -32,7 +28,7 @@ The dataset used in this project is obtained from Inside Airbnb. It consists of 
 
 
 
-Visualizations used:
+VISUALIZATIONS USED:
 
 Line Chart: To show the average price trend across different years.
 Map Visualization / Bar Chart: To represent average prices by ZIP code.
@@ -41,7 +37,7 @@ Ranking Table / Bar Chart: For regions with the highest ratings.
 
 
 
-Use of the Dashboard in Real Life:
+USE IN REAL LIFE:
 
 Airbnb Hosts: To identify competitive pricing strategies based on location.
 Travelers: To plan stays by comparing areas with better ratings and price averages.
@@ -50,6 +46,6 @@ City Planners: To assess the tourism impact on different boroughs.
 
 
 
-Conclusion:
+CONCLUSION:
 
 This project offers insights into the Airbnb rental market. The visualizations showcase information about the distribution of listings, room types, availability, and reviews. The dashboard enables users to interact with the data and gain a deeper understanding of the rental market across different cities.
