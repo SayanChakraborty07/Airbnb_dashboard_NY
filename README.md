@@ -22,7 +22,9 @@ Data Sources:
 The dataset used in this project is obtained from Inside Airbnb. It consists of the following files,
 
 • listings.csv.gz - This file contains information about the Airbnb listings, including the listing id, the host id, the property type, and the price.
+
 • reviews.csv.gz - This file contains information about the reviews of the listings, including the review id, the listing id, the date of the review, and the reviewer id.
+
 • calendar.csv.gz - This file contains information about the availability of the listings, including the listing id, the date of availability, and the price.
 
 
